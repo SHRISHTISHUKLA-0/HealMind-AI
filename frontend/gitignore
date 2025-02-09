@@ -1,0 +1,9 @@
+# React Native build files
+android/
+ios/
+build/
+expo-debug.log
+
+# Cache files
+npm-debug.log
+yarn-error.log
